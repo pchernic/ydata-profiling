@@ -1,6 +1,4 @@
-# ydata-profiling
-Leveraging ydata-profiling for streamlined exploratory data analysis
-📊 ydata-profiling for EDA
+# 📊 ydata-profiling for EDA
 This code explores ydata-profiling to automate and accelerate exploratory data analysis (EDA). With just a few lines of code, you can generate a comprehensive report that highlights:
 
 Data types and distributions
